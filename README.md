@@ -23,6 +23,7 @@ Here are some ideas to get you started:
    <a href="https://twitter.com/Batmani_"><img alt="Twitter" src="https://img.shields.io/badge/-@Batmani_-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Batmani_"></a>
    <a href="mailto:imalikmu@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-imalikmu@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imalikmu@gmail.com"></a>
    <a href="https://medium.com/@mani-malik"><img alt="Medium" src="https://img.shields.io/badge/-@mani--malik-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@mani-malik"></a>
+<!--   <a href="https://hashnode.com/@mani-malik">img alt="Hashnode" src="https://img.shields.io/badge/-@mani--malik- -->
 </p>
 
 <h3 align="left">  My name is Mohammad Malik, I mainly go by Mani, and I'm a software developer who likes to dabble with new tech, play video games, learn languages, and engage in various outdoor activities. 🧗🏼‍♂️ 🏋🏽‍♂️ ⚽️ 🚣🏽‍♂️ 🏍 </h3>
