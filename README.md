@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hey, I'm Mohammad 👋🏽 </h1>
+<h1 align="left">Hey, I'm Mohammad! 👋🏽 </h1>
 
 
 <p align="center">
