@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
    <!-- <a href="https://jonaylor.xyz/"><img alt="Portfolio" src="https://img.shields.io/badge/-jonaylor.xyz-black?style=flat-square&logo=squarespace&logoColor=white&link=https://jonaylor.xyz/"></a>
    -->
-   <a href="https://www.linkedin.com/in/mani-malik/"><img alt="LinkedIn" src="https://img.shields.io/badge/-mani-malik-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mani-malik/"></a>
+   <a href="https://www.linkedin.com/in/mani-malik/"><img alt="LinkedIn" src="https://img.shields.io/badge/-mani--malik-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mani-malik/"></a>
    <a href="https://twitter.com/Batmani_"><img alt="Twitter" src="https://img.shields.io/badge/-@Batmani_-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Batmani_"></a>
    <a href="mailto:imalikmu@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-imalikmu@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imalikmu@gmail.com"></a>
    <!-- <a href="https://medium.com/@jonaylor89"><img alt="Medium" src="https://img.shields.io/badge/-@jonaylor89-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@jonaylor89"></a>
