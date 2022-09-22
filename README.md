@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ---
 
-credits for gif http://gph.is/2pqa06T
+<!-- credits for gif http://gph.is/2pqa06T -->
 <img align="right" height="150" width="210" src="data.gif">
 
 - 🔭 **I’m currently working on:** k8s, infrastructure development, system architectures, and cloud migration
