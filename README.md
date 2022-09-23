@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="left">Hey, I'm Mohammad! 👋🏽 </h1>
+<h1 align="center">Hey, I'm Mohammad! 👋🏽 </h1>
 
 <p align="center">
    <!-- <a href="https://jonaylor.xyz/"><img alt="Portfolio" src="https://img.shields.io/badge/-jonaylor.xyz-black?style=flat-square&logo=squarespace&logoColor=white&link=https://jonaylor.xyz/"></a>
