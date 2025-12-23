@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img align="right" height="150" width="210" src="data.gif">
 
 - 🔭 **I’m currently working on:** k8s, infrastructure development, system architectures, and cloud migration
-- 🌱 **I’m currently learning:** react, spanish, product management, piano, and the guitar
+- 🌱 **I’m currently learning:** spanish, ableton, (how to dj, the piano, and the guitar)
 - ⚡ **Hobbies:** music, building and learning things, traveling
 - 😄 **Pronouns:** he/him
 - ⚡ Fun fact: I know a tiny bit of ASL and so I'm good at working in a hands-on environment
